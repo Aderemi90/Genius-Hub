@@ -324,7 +324,7 @@ footer {
 
 .contact-container button {
   background-color: #14213D;
-  margin-left: 430px;
+  margin: 0px auto;
   color: #FFFFFF;
   border: none;
   padding: 12px;
@@ -798,7 +798,7 @@ p {
     border-radius: 8px;
     cursor: pointer;
     width: 300px;
-    margin-right: 430px;
+    margin: 0px auto;
     transition: background-color 0.3s ease;
   }
 
